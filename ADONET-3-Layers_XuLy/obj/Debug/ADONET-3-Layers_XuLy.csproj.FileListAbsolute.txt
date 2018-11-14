@@ -1,0 +1,7 @@
+D:\Hcmus\3nd\LT UDQL\LT\ADONET-3-Layers_GiaoDien\ADONET-3-Layers_XuLy\bin\Debug\ADONET-3-Layers_XuLy.dll
+D:\Hcmus\3nd\LT UDQL\LT\ADONET-3-Layers_GiaoDien\ADONET-3-Layers_XuLy\bin\Debug\ADONET-3-Layers_XuLy.pdb
+D:\Hcmus\3nd\LT UDQL\LT\ADONET-3-Layers_GiaoDien\ADONET-3-Layers_XuLy\bin\Debug\ADONET-3-Layers_KetNoi.dll
+D:\Hcmus\3nd\LT UDQL\LT\ADONET-3-Layers_GiaoDien\ADONET-3-Layers_XuLy\bin\Debug\ADONET-3-Layers_KetNoi.pdb
+D:\Hcmus\3nd\LT UDQL\LT\ADONET-3-Layers_GiaoDien\ADONET-3-Layers_XuLy\obj\Debug\ADONET-3-Layers_XuLy.csprojResolveAssemblyReference.cache
+D:\Hcmus\3nd\LT UDQL\LT\ADONET-3-Layers_GiaoDien\ADONET-3-Layers_XuLy\obj\Debug\ADONET-3-Layers_XuLy.dll
+D:\Hcmus\3nd\LT UDQL\LT\ADONET-3-Layers_GiaoDien\ADONET-3-Layers_XuLy\obj\Debug\ADONET-3-Layers_XuLy.pdb
