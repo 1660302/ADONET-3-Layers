@@ -1,5 +1,0 @@
-D:\Hcmus\3nd\LT UDQL\LT\ADONET-3-Layers_GiaoDien\ADONET-3-Layers_KetNoi\bin\Debug\ADONET-3-Layers_KetNoi.dll
-D:\Hcmus\3nd\LT UDQL\LT\ADONET-3-Layers_GiaoDien\ADONET-3-Layers_KetNoi\bin\Debug\ADONET-3-Layers_KetNoi.pdb
-D:\Hcmus\3nd\LT UDQL\LT\ADONET-3-Layers_GiaoDien\ADONET-3-Layers_KetNoi\obj\Debug\ADONET-3-Layers_KetNoi.csprojResolveAssemblyReference.cache
-D:\Hcmus\3nd\LT UDQL\LT\ADONET-3-Layers_GiaoDien\ADONET-3-Layers_KetNoi\obj\Debug\ADONET-3-Layers_KetNoi.dll
-D:\Hcmus\3nd\LT UDQL\LT\ADONET-3-Layers_GiaoDien\ADONET-3-Layers_KetNoi\obj\Debug\ADONET-3-Layers_KetNoi.pdb
