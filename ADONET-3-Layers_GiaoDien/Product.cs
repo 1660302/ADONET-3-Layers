@@ -8,7 +8,7 @@ namespace ADONET_3_Layers_GiaoDien
 {
     class Product
     {
-        String mId;
+        int mId;
         String mName;
         int mSupplierId;
         int mCategoryId;
@@ -19,7 +19,7 @@ namespace ADONET_3_Layers_GiaoDien
         int mReorderLevel;
         int mDiscontinued;
 
-        public string Id
+        public int Id
         {
             get
             {
