@@ -14,37 +14,80 @@ namespace ADONET_3_Layers_GiaoDien
 {
     public partial class Form1 : Form
     {
+        private int originalW;
+        private int originalX;
         public Form1()
         {
             InitializeComponent();
-            
+            loadSuppliersToComboBox();
+            loadCategoriesToComboBox();
+            loadListOfProductToDataGridView();
         }
-
-        private void dataGridView1_CellContentClick(object sender, DataGridViewCellEventArgs e)
+        // Support Functions
+        private void loadListOfProductToDataGridView()
         {
-            
+            dgvListOfProducts.DataSource = Handler.getListOfProducts();
         }
-
-        private void Form1_Load(object sender, EventArgs e)
+        private void loadSuppliersToComboBox()
         {
-            XuLy xl = new XuLy();
-            DataTable dt = xl.LayDSKhachHang();
-            dg.DataSource = dt;
+            List<Tuple<int, string>> suppliers = Handler.getListOfSupplier();
+            if(suppliers != null && suppliers.Count > 0)
+            {
+               
+                foreach (Tuple<int, string> i in suppliers)
+                {
+                    cbSupplier.Items.Add(i.Item2);
+                    //cbSupplier.Items.Add(i.Item1+". "+i.Item2);
+                }
+                //cbSupplier.SelectedIndex = 0;
+            }
         }
 
-        private void dg_CellContentClick(object sender, DataGridViewCellEventArgs e)
+        private void loadCategoriesToComboBox()
         {
-            //MessageBox.Show(e.ToString());
+            List<Tuple<int, string>> categories = Handler.getListOfCategorys();
+            if (categories != null && categories.Count > 0)
+            {
 
-            string id = dg.Rows[dg.CurrentRow.Index].Cells[0].Value.ToString();
-            string ten= dg.Rows[dg.CurrentRow.Index].Cells[1].Value.ToString();
-            string bangcd = dg.Rows[dg.CurrentRow.Index].Cells[2].Value.ToString();
-            txtMaNhom.Text = id;
-            txtTruongNhom.Text = ten;
-            txtBCDat.Text = bangcd;
-            
+                foreach (Tuple<int, string> i in categories)
+                {
+                    cbCategory.Items.Add( i.Item2);
+                    //cbCategory.Items.Add(i.Item1 + ". " + i.Item2);
+                }
+                //cbCategory.SelectedIndex = 0;
+            }
         }
 
-        
+
+        // Event functions
+        private void btnNew_Click(object sender, EventArgs e)
+        {
+            rbNew.Checked = true;
+        }
+
+        private void btnEdit_Click(object sender, EventArgs e)
+        {
+            rbEdit.Checked = true;
+        }
+
+        private void btnDelete_Click(object sender, EventArgs e)
+        {
+            rbDelete.Checked = true;
+        }
+
+        private void btnNew_Click_1(object sender, EventArgs e)
+        {
+            rbNew.Checked = true;
+        }
+
+        private void btnEdit_Click_1(object sender, EventArgs e)
+        {
+            rbEdit.Checked = true;
+        }
+
+        private void btnDelete_Click_1(object sender, EventArgs e)
+        {
+            rbDelete.Checked = true;
+        }
     }
 }

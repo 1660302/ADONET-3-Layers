@@ -1,0 +1,13 @@
+C:\Users\dinhh\Downloads\Compress files\Source codes\ADONET-3-Layers-master\ADONET-3-Layers-master\ADONET-3-Layers_GiaoDien\bin\Debug\ADONET-3-Layers_GiaoDien.exe.config
+C:\Users\dinhh\Downloads\Compress files\Source codes\ADONET-3-Layers-master\ADONET-3-Layers-master\ADONET-3-Layers_GiaoDien\bin\Debug\ADONET-3-Layers_GiaoDien.exe
+C:\Users\dinhh\Downloads\Compress files\Source codes\ADONET-3-Layers-master\ADONET-3-Layers-master\ADONET-3-Layers_GiaoDien\bin\Debug\ADONET-3-Layers_GiaoDien.pdb
+C:\Users\dinhh\Downloads\Compress files\Source codes\ADONET-3-Layers-master\ADONET-3-Layers-master\ADONET-3-Layers_GiaoDien\bin\Debug\ADONET-3-Layers_XuLy.dll
+C:\Users\dinhh\Downloads\Compress files\Source codes\ADONET-3-Layers-master\ADONET-3-Layers-master\ADONET-3-Layers_GiaoDien\bin\Debug\ADONET-3-Layers_KetNoi.dll
+C:\Users\dinhh\Downloads\Compress files\Source codes\ADONET-3-Layers-master\ADONET-3-Layers-master\ADONET-3-Layers_GiaoDien\bin\Debug\ADONET-3-Layers_XuLy.pdb
+C:\Users\dinhh\Downloads\Compress files\Source codes\ADONET-3-Layers-master\ADONET-3-Layers-master\ADONET-3-Layers_GiaoDien\bin\Debug\ADONET-3-Layers_KetNoi.pdb
+C:\Users\dinhh\Downloads\Compress files\Source codes\ADONET-3-Layers-master\ADONET-3-Layers-master\ADONET-3-Layers_GiaoDien\obj\Debug\ADONET-3-Layers_GiaoDien.csprojResolveAssemblyReference.cache
+C:\Users\dinhh\Downloads\Compress files\Source codes\ADONET-3-Layers-master\ADONET-3-Layers-master\ADONET-3-Layers_GiaoDien\obj\Debug\ADONET_3_Layers_GiaoDien.Form1.resources
+C:\Users\dinhh\Downloads\Compress files\Source codes\ADONET-3-Layers-master\ADONET-3-Layers-master\ADONET-3-Layers_GiaoDien\obj\Debug\ADONET_3_Layers_GiaoDien.Properties.Resources.resources
+C:\Users\dinhh\Downloads\Compress files\Source codes\ADONET-3-Layers-master\ADONET-3-Layers-master\ADONET-3-Layers_GiaoDien\obj\Debug\ADONET-3-Layers_GiaoDien.csproj.GenerateResource.Cache
+C:\Users\dinhh\Downloads\Compress files\Source codes\ADONET-3-Layers-master\ADONET-3-Layers-master\ADONET-3-Layers_GiaoDien\obj\Debug\ADONET-3-Layers_GiaoDien.exe
+C:\Users\dinhh\Downloads\Compress files\Source codes\ADONET-3-Layers-master\ADONET-3-Layers-master\ADONET-3-Layers_GiaoDien\obj\Debug\ADONET-3-Layers_GiaoDien.pdb

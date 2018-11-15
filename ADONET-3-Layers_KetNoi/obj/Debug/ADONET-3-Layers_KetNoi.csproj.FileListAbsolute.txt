@@ -1,0 +1,5 @@
+C:\Users\dinhh\Downloads\Compress files\Source codes\ADONET-3-Layers-master\ADONET-3-Layers-master\ADONET-3-Layers_KetNoi\bin\Debug\ADONET-3-Layers_KetNoi.dll
+C:\Users\dinhh\Downloads\Compress files\Source codes\ADONET-3-Layers-master\ADONET-3-Layers-master\ADONET-3-Layers_KetNoi\bin\Debug\ADONET-3-Layers_KetNoi.pdb
+C:\Users\dinhh\Downloads\Compress files\Source codes\ADONET-3-Layers-master\ADONET-3-Layers-master\ADONET-3-Layers_KetNoi\obj\Debug\ADONET-3-Layers_KetNoi.dll
+C:\Users\dinhh\Downloads\Compress files\Source codes\ADONET-3-Layers-master\ADONET-3-Layers-master\ADONET-3-Layers_KetNoi\obj\Debug\ADONET-3-Layers_KetNoi.pdb
+C:\Users\dinhh\Downloads\Compress files\Source codes\ADONET-3-Layers-master\ADONET-3-Layers-master\ADONET-3-Layers_KetNoi\obj\Debug\ADONET-3-Layers_KetNoi.csprojResolveAssemblyReference.cache
