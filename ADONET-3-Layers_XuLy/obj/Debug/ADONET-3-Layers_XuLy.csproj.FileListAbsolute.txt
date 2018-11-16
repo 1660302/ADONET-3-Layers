@@ -5,3 +5,10 @@ C:\Users\dinhh\Downloads\Compress files\Source codes\ADONET-3-Layers-master\ADON
 C:\Users\dinhh\Downloads\Compress files\Source codes\ADONET-3-Layers-master\ADONET-3-Layers-master\ADONET-3-Layers_XuLy\obj\Debug\ADONET-3-Layers_XuLy.csprojResolveAssemblyReference.cache
 C:\Users\dinhh\Downloads\Compress files\Source codes\ADONET-3-Layers-master\ADONET-3-Layers-master\ADONET-3-Layers_XuLy\obj\Debug\ADONET-3-Layers_XuLy.dll
 C:\Users\dinhh\Downloads\Compress files\Source codes\ADONET-3-Layers-master\ADONET-3-Layers-master\ADONET-3-Layers_XuLy\obj\Debug\ADONET-3-Layers_XuLy.pdb
+D:\Learn\Nam_3\LTUDQL\DoAn\ABC\ADONET-3-Layers\ADONET-3-Layers_XuLy\bin\Debug\ADONET-3-Layers_XuLy.dll
+D:\Learn\Nam_3\LTUDQL\DoAn\ABC\ADONET-3-Layers\ADONET-3-Layers_XuLy\bin\Debug\ADONET-3-Layers_XuLy.pdb
+D:\Learn\Nam_3\LTUDQL\DoAn\ABC\ADONET-3-Layers\ADONET-3-Layers_XuLy\bin\Debug\ADONET-3-Layers_KetNoi.dll
+D:\Learn\Nam_3\LTUDQL\DoAn\ABC\ADONET-3-Layers\ADONET-3-Layers_XuLy\bin\Debug\ADONET-3-Layers_KetNoi.pdb
+D:\Learn\Nam_3\LTUDQL\DoAn\ABC\ADONET-3-Layers\ADONET-3-Layers_XuLy\obj\Debug\ADONET-3-Layers_XuLy.csprojResolveAssemblyReference.cache
+D:\Learn\Nam_3\LTUDQL\DoAn\ABC\ADONET-3-Layers\ADONET-3-Layers_XuLy\obj\Debug\ADONET-3-Layers_XuLy.dll
+D:\Learn\Nam_3\LTUDQL\DoAn\ABC\ADONET-3-Layers\ADONET-3-Layers_XuLy\obj\Debug\ADONET-3-Layers_XuLy.pdb
