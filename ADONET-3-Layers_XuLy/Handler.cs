@@ -23,6 +23,7 @@ namespace ADONET_3_Layers_XuLy
             DataProvider.Connect();
             DataProvider.ExecuteNonQuery(CommandType.Text, "delete from [Order Details] where ProductID=" + id);
             DataProvider.ExecuteNonQuery(CommandType.Text, "delete from Products where ProductID=" + id);
+            DataProvider.Disconnect();
         }
 
         public static List<Tuple<int,string>> getListOfSupplier()
