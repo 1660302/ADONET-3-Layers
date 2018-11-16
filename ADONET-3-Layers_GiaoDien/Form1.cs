@@ -88,6 +88,25 @@ namespace ADONET_3_Layers_GiaoDien
         private void btnDelete_Click_1(object sender, EventArgs e)
         {
             rbDelete.Checked = true;
+            if (dgvListOfProducts.SelectedRows.Count > 0)
+            {
+                DialogResult res= MessageBox.Show("Do you really want delete?", "Wait", MessageBoxButtons.YesNo);
+                if (res == DialogResult.Yes)
+                {
+                    string id = dgvListOfProducts.Rows[dgvListOfProducts.CurrentRow.Index].Cells[0].Value.ToString();
+                    Handler.deleteRow(int.Parse(id));
+                    loadListOfProductToDataGridView();
+                    MessageBox.Show("Deleted", "Done");
+                }
+                else
+                {
+
+                }
+            }
+            else
+            {
+                MessageBox.Show("Please select 1 row before delete", "Warning");
+            }
         }
     }
 }
