@@ -18,6 +18,13 @@ namespace ADONET_3_Layers_XuLy
             return dt;
         }
 
+        public static void deleteRow(int id)
+        {
+            DataProvider.Connect();
+            DataProvider.ExecuteNonQuery(CommandType.Text, "delete from [Order Details] where ProductID=" + id);
+            DataProvider.ExecuteNonQuery(CommandType.Text, "delete from Products where ProductID=" + id);
+        }
+
         public static List<Tuple<int,string>> getListOfSupplier()
         {
             DataProvider.Connect();
