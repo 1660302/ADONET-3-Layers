@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace ADONET_3_Layers_XuLy
+namespace ADONET_3_Layers_GiaoDien
 {
     public class Product
     {
@@ -153,5 +153,8 @@ namespace ADONET_3_Layers_XuLy
         {
 
         }
+
+        
+
     }
 }
