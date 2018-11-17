@@ -11,7 +11,7 @@ namespace ADONET_3_Layers_XuLy
 {
     public class Handler
     {
-        private static object product;
+       //private static object product;
 
         public static DataTable getListOfProducts()
         {

@@ -19,3 +19,10 @@ F:\IINFORMATION TEACHNOLOGY\Lập Trình UDQL\BtNhom\ADONET-3-Layers-master\ADON
 F:\IINFORMATION TEACHNOLOGY\Lập Trình UDQL\BtNhom\ADONET-3-Layers-master\ADONET-3-Layers_XuLy\obj\Debug\ADONET-3-Layers_XuLy.csprojResolveAssemblyReference.cache
 F:\IINFORMATION TEACHNOLOGY\Lập Trình UDQL\BtNhom\ADONET-3-Layers-master\ADONET-3-Layers_XuLy\obj\Debug\ADONET-3-Layers_XuLy.dll
 F:\IINFORMATION TEACHNOLOGY\Lập Trình UDQL\BtNhom\ADONET-3-Layers-master\ADONET-3-Layers_XuLy\obj\Debug\ADONET-3-Layers_XuLy.pdb
+F:\IINFORMATION TEACHNOLOGY\Lập Trình UDQL\BtNhom\ADONET-3-Layers\ADONET-3-Layers_XuLy\bin\Debug\ADONET-3-Layers_XuLy.dll
+F:\IINFORMATION TEACHNOLOGY\Lập Trình UDQL\BtNhom\ADONET-3-Layers\ADONET-3-Layers_XuLy\bin\Debug\ADONET-3-Layers_XuLy.pdb
+F:\IINFORMATION TEACHNOLOGY\Lập Trình UDQL\BtNhom\ADONET-3-Layers\ADONET-3-Layers_XuLy\bin\Debug\ADONET-3-Layers_KetNoi.dll
+F:\IINFORMATION TEACHNOLOGY\Lập Trình UDQL\BtNhom\ADONET-3-Layers\ADONET-3-Layers_XuLy\bin\Debug\ADONET-3-Layers_KetNoi.pdb
+F:\IINFORMATION TEACHNOLOGY\Lập Trình UDQL\BtNhom\ADONET-3-Layers\ADONET-3-Layers_XuLy\obj\Debug\ADONET-3-Layers_XuLy.csprojResolveAssemblyReference.cache
+F:\IINFORMATION TEACHNOLOGY\Lập Trình UDQL\BtNhom\ADONET-3-Layers\ADONET-3-Layers_XuLy\obj\Debug\ADONET-3-Layers_XuLy.dll
+F:\IINFORMATION TEACHNOLOGY\Lập Trình UDQL\BtNhom\ADONET-3-Layers\ADONET-3-Layers_XuLy\obj\Debug\ADONET-3-Layers_XuLy.pdb
